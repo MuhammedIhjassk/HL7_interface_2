@@ -1,10 +1,6 @@
 Received HL7 Message:
-MSH|^~\&|HIS|Hospital|NABIDH|NABIDH|20230910120000||ADT^A01|123456789|P|2.5.1
-EVN|A01|20230910120000||
-PID|1||12345678^^^Hospital^MR||Doe^John^A^III^Mr.||19900101|M|||123 Main St^^City^State^12345^USA||(123)456-7890|(321)654-9870||S|||987-65-4321
-NK1|1|Doe^Jane^A|SPO|123 Oak St^^City^State^12345^USA|(987)654-3210
-PV1|1|I|ER^01^Hospital||||12345^Smith^John^A^Dr.|67890^Jones^Mary^B^Dr.||||||||||||||||||||||||||||||||||||20230910
-AL1|1|DA|Penicillin|SV|NKA
+MSH|^~\&|SendingApp|SendingFac|||202301011230||ADT^A01|12345|P|2.3
+PID|1||123456||Doe^John
 
 
 ========================================
